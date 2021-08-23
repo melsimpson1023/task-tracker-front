@@ -1,4 +1,4 @@
-## Steps I Took
+## Steps
 
 # If you want to create from scratch
 
@@ -23,4 +23,8 @@ git init
 
 ## All continue from now on
 
-2.
+2. Start the application
+
+```
+npm start
+```
