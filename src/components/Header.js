@@ -16,7 +16,7 @@ Header.propTypes = {
     title: PropTypes.string.isRequired,
 }
 
-// CSS is JSX
+// CSS is JS
 // const headingStyle = {
 //    color: 'red',
 //    backgroundColor: 'black',
