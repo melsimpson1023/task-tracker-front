@@ -3,7 +3,7 @@ import axios from "axios"
 import Header from './components/Header'
 import Tasks from './components/Tasks'
 import AddTask from './components/AddTask'
-import { indexTasks } from 'src\api'
+import { indexTasks } from 'src/api'
 
 function App() {
   const [showAddTask, setShowAddTask] = useState(false)
@@ -29,7 +29,7 @@ function App() {
     },
     {
       id: 4,
-      text: 'Color Stephen\'s hair green',
+      text: 'Color Stephens hair green',
       day: 'Sept 20th at 2:30pm',
       reminder: true,
   }
